@@ -21,6 +21,10 @@
 		D9150106197E9FF300E2B51B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D91500E8197E9FF300E2B51B /* UIKit.framework */; };
 		D915010E197E9FF300E2B51B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D915010C197E9FF300E2B51B /* InfoPlist.strings */; };
 		D9150110197E9FF300E2B51B /* SecureLogonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D915010F197E9FF300E2B51B /* SecureLogonTests.m */; };
+		D915011A197EA04C00E2B51B /* 240px-Facebook_icon_2013.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = D9150119197EA04C00E2B51B /* 240px-Facebook_icon_2013.svg.png */; };
+		D915011C197EA06F00E2B51B /* twitter-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D915011B197EA06F00E2B51B /* twitter-icon.png */; };
+		D915011E197EA09200E2B51B /* Forgot-Your-Password-Icon-Large-Two.png in Resources */ = {isa = PBXBuildFile; fileRef = D915011D197EA09200E2B51B /* Forgot-Your-Password-Icon-Large-Two.png */; };
+		D9150120197EA3B000E2B51B /* 13762496-login-icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D915011F197EA3B000E2B51B /* 13762496-login-icon.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +57,10 @@
 		D915010B197E9FF300E2B51B /* SecureLogonTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SecureLogonTests-Info.plist"; sourceTree = "<group>"; };
 		D915010D197E9FF300E2B51B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D915010F197E9FF300E2B51B /* SecureLogonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecureLogonTests.m; sourceTree = "<group>"; };
+		D9150119197EA04C00E2B51B /* 240px-Facebook_icon_2013.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "240px-Facebook_icon_2013.svg.png"; sourceTree = "<group>"; };
+		D915011B197EA06F00E2B51B /* twitter-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twitter-icon.png"; sourceTree = "<group>"; };
+		D915011D197EA09200E2B51B /* Forgot-Your-Password-Icon-Large-Two.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Forgot-Your-Password-Icon-Large-Two.png"; sourceTree = "<group>"; };
+		D915011F197EA3B000E2B51B /* 13762496-login-icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "13762496-login-icon.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +134,10 @@
 		D91500EB197E9FF300E2B51B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D915011D197EA09200E2B51B /* Forgot-Your-Password-Icon-Large-Two.png */,
+				D915011F197EA3B000E2B51B /* 13762496-login-icon.jpg */,
+				D915011B197EA06F00E2B51B /* twitter-icon.png */,
+				D9150119197EA04C00E2B51B /* 240px-Facebook_icon_2013.svg.png */,
 				D91500EC197E9FF300E2B51B /* SecureLogon-Info.plist */,
 				D91500ED197E9FF300E2B51B /* InfoPlist.strings */,
 				D91500F0197E9FF300E2B51B /* main.m */,
@@ -231,6 +243,10 @@
 			files = (
 				D91500FD197E9FF300E2B51B /* Images.xcassets in Resources */,
 				D91500EF197E9FF300E2B51B /* InfoPlist.strings in Resources */,
+				D9150120197EA3B000E2B51B /* 13762496-login-icon.jpg in Resources */,
+				D915011A197EA04C00E2B51B /* 240px-Facebook_icon_2013.svg.png in Resources */,
+				D915011C197EA06F00E2B51B /* twitter-icon.png in Resources */,
+				D915011E197EA09200E2B51B /* Forgot-Your-Password-Icon-Large-Two.png in Resources */,
 				D91500F8197E9FF300E2B51B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
